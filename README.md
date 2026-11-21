@@ -1,14 +1,14 @@
-# [WG_NAME] ([WG_ACRONYM]) Working Group
+# JSON Signature Scheme (JSS) Working Group
 
-This is the repository of the OSTERA [WG_NAME] Working Group.
+This is the repository of the OSTERA JSON Signature Scheme Working Group.
 
-* **Chair:** [WG_CHAIR]
-* **Website:** https://wg.ostera.org/[WG_ID]/
+* **Chair:** Bret Jordan
+* **Website:** https://wg.ostera.org/jss/
 * **Published documents:** https://pub.ostera.org/
 
-## Scope
+## Purpose and Scope
 
-[WG_SCOPE]
+The purpose of this working group is to work on solutions that enable JSON data, and JSON like data structures, to be digitally signed and encrypted.
 
 ## Participating
 
@@ -22,7 +22,7 @@ By submitting any contribution (an issue, a pull request, or a comment), you agr
 
 ## How to Contribute
 
-1. **Comments on a draft.** Open an issue in this [repository](https://github.com/OSTERA-org-Working-Groups/[WG_ID]/issues/new/choose) using the "Work Item Comment" template. Identify the document, its version, and the section you are commenting on.
+1. **Comments on a draft.** Open an issue in this [repository](https://github.com/OSTERA-org-Working-Groups/jss/issues/new/choose) using the "Work Item Comment" template. Identify the document, its version, and the section you are commenting on.
 2. **Propose text changes.** Fork the repository, create a branch, and open a pull request against the main branch. Keep each pull request to one logical change, and reference the related issue.
 3. **Substantive technical changes.** Significant changes are discussed at working group meetings. The working group chair determines consensus in accordance with the OSTERA Working Methods.
 

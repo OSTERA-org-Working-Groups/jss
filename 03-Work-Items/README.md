@@ -24,7 +24,7 @@ When a working group starts a new version of the document, its drafts **MUST** b
 
 Before a work item can be approved, it **MUST** go through at least one 14 day Working Group last call and at least one 30 day public review (Working Methods, Article 29). When the chairs ask for a public review, the Secretariat copies the draft, unchanged, from the OSTERA Portal to https://pub.ostera.org/reviews/, where it keeps its name. For example, the review of `draft-ts-jcs-01.pdf` for version 1.0 would be at https://pub.ostera.org/reviews/jcs/v1.0/01/. The contents of a given draft number **MUST NOT** be changed after it has been released, either to the working group or for public review. Make a new draft with a new draft number instead.
 
-To comment on a draft, open an issue in this repository using the "Work Item Comment" template (https://github.com/OSTERA-org-Working-Groups/[WG_ID]/issues/new/choose). During a public review, comments can also be sent to public-review@ostera.org; each review page at https://pub.ostera.org/reviews/ explains how.
+To comment on a draft, open an issue in this repository using the "Work Item Comment" template (https://github.com/OSTERA-org-Working-Groups/jss/issues/new/choose). During a public review, comments can also be sent to public-review@ostera.org; each review page at https://pub.ostera.org/reviews/ explains how.
 
 ## Intellectual Property
 
