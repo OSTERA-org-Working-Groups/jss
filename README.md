@@ -1,15 +1,20 @@
-# [WG_NAME] ([WG_ACRONYM]) Working Group
+# JSON Signature Scheme (JSS) Working Group
 
-This repository holds the work of the OSTERA [WG_NAME] Working Group.
+This repository holds the work of the OSTERA JSON Signature Scheme Working Group.
 
-* **Chair:** [WG_CHAIR]
-* **Charter:** [WG_CHARTER_URL]
-* **Website:** [https://wg.ostera.org/[WG_ID]/](https://wg.ostera.org/[WG_ID]/)
+* **Chair:** Bret Jordan
+* **Charter:** https://github.com/OSTERA-org-Working-Groups/jss/blob/main/01-Governance/2026-11-04-wg-jss-charter.pdf
+* **Website:** [https://wg.ostera.org/jss/](https://wg.ostera.org/jss/)
 * **Published documents:** [https://pub.ostera.org/](https://pub.ostera.org/)
 
 ## Purpose and Scope
 
-[WG_SCOPE]
+The purpose of this working group is to work on solutions that enable JSON data, and JSON like data structures, to be digitally signed and encrypted.
+
+This working group will primarily focus on maintaining two existing work items to ensure they meet the needs of the market and support modern cryptographic algorithms as they become available:
+
+- The JSON digital signature scheme (JSS)
+- The JSON canonicalization scheme (JCS)
 
 ## Repository Layout
 

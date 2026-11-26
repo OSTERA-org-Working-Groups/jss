@@ -30,9 +30,9 @@
 # is filled in by hand.
 
 # Settings used by the theme, on any type of site.
-title: "OSTERA [WG_NAME] ([WG_ACRONYM]) Working Group"
-short_title: "[WG_NAME] ([WG_ACRONYM])"
-description: "[WG_SHORT_DESCRIPTION]"
+title: "OSTERA JSON Signature Scheme (JSS) Working Group"
+short_title: "JSON Signature Scheme (JSS)"
+description: "Enable JSON data, and JSON like data structures, to be digitally signed and encrypted."
 
 remote_theme: OSTERA-org/ostera-pages-theme
 plugins:
@@ -50,11 +50,11 @@ ostera_section: wg
 # site bar menu and the footer, and the working group pages add paths to it
 # (such as "issues/new/choose") to link to the repository's folders, files, and
 # issues.
-repo_url: https://github.com/OSTERA-org-Working-Groups/[WG_ID]/
+repo_url: https://github.com/OSTERA-org-Working-Groups/jss/
 
 # Settings used only by the working group pages (index.md and publications.md).
-chair: "[WG_CHAIR]"
-charter_url: "[WG_CHARTER_URL]"
+chair: "Bret Jordan"
+charter_url: "https://github.com/OSTERA-org-Working-Groups/jss/blob/main/01-Governance/2026-11-04-wg-jss-charter.pdf"
 publications_url: "https://pub.ostera.org/"
 
 # The site bar menu. A url on this site starts with "/" and leaves out the
@@ -64,7 +64,7 @@ navigation:
   - title: Home
     url: /
   - title: Charter
-    url: "[WG_CHARTER_URL]"
+    url: "https://github.com/OSTERA-org-Working-Groups/jss/blob/main/01-Governance/2026-11-04-wg-jss-charter.pdf"
   - title: Meetings
     url: /meetings/
   - title: Work Items

@@ -1,19 +1,24 @@
 ---
 layout: home
 title: Home
-hero_title: "[WG_NAME] ([WG_ACRONYM]) Working Group"
-hero_text: "[WG_SHORT_DESCRIPTION]"
+hero_title: "JSON Signature Scheme (JSS) Working Group"
+hero_text: "Enable JSON data, and JSON like data structures, to be digitally signed and encrypted."
 hero_buttons:
   - label: Work Items
     url: /work-items/
   - label: Read the Charter
-    url: "[WG_CHARTER_URL]"
+    url: "https://github.com/OSTERA-org-Working-Groups/jss/blob/main/01-Governance/2026-11-04-wg-jss-charter.pdf"
     style: secondary
 ---
 
 ## Purpose and Scope
 
-[WG_SCOPE]
+The purpose of this working group is to work on solutions that enable JSON data, and JSON like data structures, to be digitally signed and encrypted.
+
+This working group will primarily focus on maintaining two existing work items to ensure they meet the needs of the market and support modern cryptographic algorithms as they become available:
+
+- The JSON digital signature scheme (JSS)
+- The JSON canonicalization scheme (JCS)
 
 {% comment %}
   Goals and Outcomes (optional). To show this section on the home page,

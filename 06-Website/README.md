@@ -1,6 +1,6 @@
 # 06 Website
 
-This folder is the source of this Working Group's website, found at [wg.ostera.org/[WG_ID]/](https://wg.ostera.org/[WG_ID]/).
+This folder is the source of this Working Group's website, found at [wg.ostera.org/jss/](https://wg.ostera.org/jss/).
 
 ## Detailed Documentation
 
