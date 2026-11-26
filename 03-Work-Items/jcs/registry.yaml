@@ -1,0 +1,39 @@
+name: "JSON Canonicalization Scheme (JCS)"
+number: "OSTERA TS 1000"
+type: TS
+summary: "This document defines how to create a canonical representation of JSON data."
+
+versions:
+  - version: "1.0"
+    started: 2026-06-19
+    approved:
+      draft: "01"
+      date: 2026-11-04
+    published:
+    drafts:
+      - draft: "01"
+        released: 2026-11-04
+        authors:
+          - name: "Anders Rundgren"
+            affiliation: "Individual"
+          - name: "Bret Jordan"
+            affiliation: "Individual"
+          - name: "Samuel Erdtman"
+            affiliation: "Spotify AB"
+        obsoletes:
+          - id: "RFC 8785"
+            url: "https://www.rfc-editor.org/info/rfc8785"
+        citation: 'A. Rundgren, B. Jordan, and S. Erdtman, "JSON Canonicalization Scheme (JCS)," OSTERA, Geneva, Switzerland, OSTERA TS 1000, ver. 1.0, Nov. 24, 2026. [Online]. Available: https://pub.ostera.org/jcs/'
+        keywords:
+          - "Canonicalization"
+          - "Deterministic Serialization"
+          - "Digital Signatures"
+          - "ECMAScript"
+          - "JSON"
+        last_call:
+          opens: 2026-11-04
+          closes: 2026-11-24
+          recorded: 2026-11-26
+        public_review:
+          opens: 2026-11-27
+          closes: 2026-12-29
